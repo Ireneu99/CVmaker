@@ -1,0 +1,58 @@
+2025-07-17 16:36:07 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 16:36:07 - cvmaker - INFO - Database tables created/verified
+2025-07-17 16:36:07 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 16:46:00 - cvmaker - INFO - Shutting down CV Maker API...
+2025-07-17 16:46:07 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 16:46:07 - cvmaker - INFO - Database tables created/verified
+2025-07-17 16:46:07 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 16:49:59 - cvmaker - ERROR - User action: error - Details: {'error_message': "Login failed: When initializing mapper Mapper[User(users)], expression 'CV' failed to locate a name ('CV'). If this is a class name, consider adding this relationship() to the <class 'backend.app.models.user.User'> class after both dependent classes have been defined."}
+2025-07-17 16:49:59 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 16:50:29 - cvmaker - ERROR - User action: error - Details: {'error_message': "Registration failed: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'CV' failed to locate a name ('CV'). If this is a class name, consider adding this relationship() to the <class 'backend.app.models.user.User'> class after both dependent classes have been defined."}
+2025-07-17 16:50:29 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 16:50:38 - cvmaker - ERROR - User action: error - Details: {'error_message': "Registration failed: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'CV' failed to locate a name ('CV'). If this is a class name, consider adding this relationship() to the <class 'backend.app.models.user.User'> class after both dependent classes have been defined."}
+2025-07-17 16:50:38 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 16:50:44 - cvmaker - ERROR - User action: error - Details: {'error_message': "Registration failed: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'CV' failed to locate a name ('CV'). If this is a class name, consider adding this relationship() to the <class 'backend.app.models.user.User'> class after both dependent classes have been defined."}
+2025-07-17 16:50:44 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 16:50:49 - cvmaker - ERROR - User action: error - Details: {'error_message': "Registration failed: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'CV' failed to locate a name ('CV'). If this is a class name, consider adding this relationship() to the <class 'backend.app.models.user.User'> class after both dependent classes have been defined."}
+2025-07-17 16:50:49 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 16:53:23 - cvmaker - INFO - Shutting down CV Maker API...
+2025-07-17 16:53:31 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 16:53:31 - cvmaker - INFO - Database tables created/verified
+2025-07-17 16:53:31 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 17:00:26 - cvmaker - INFO - User action: user_registration (User ID: 1) - Details: {'username': 'Ireneu '}
+2025-07-17 17:00:26 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 17:00:44 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:00:52 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:01:00 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/register', 'method': 'POST'}
+2025-07-17 17:01:13 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:01:28 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:01:32 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:01:43 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:01:47 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:06:36 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:06:37 - cvmaker - INFO - Shutting down CV Maker API...
+2025-07-17 17:06:43 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 17:06:43 - cvmaker - INFO - Database tables created/verified
+2025-07-17 17:06:43 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 17:08:35 - cvmaker - INFO - User action: user_login (User ID: 2) - Details: {'username': 'test'}
+2025-07-17 17:08:35 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:08:35 - cvmaker - INFO - Shutting down CV Maker API...
+2025-07-17 17:08:42 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 17:08:42 - cvmaker - INFO - Database tables created/verified
+2025-07-17 17:08:42 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 17:08:42 - cvmaker - INFO - Shutting down CV Maker API...
+2025-07-17 17:08:48 - cvmaker - INFO - Starting CV Maker API...
+2025-07-17 17:08:48 - cvmaker - INFO - Database tables created/verified
+2025-07-17 17:08:48 - cvmaker - INFO - CV Maker API started successfully
+2025-07-17 17:08:48 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/me', 'method': 'GET'}
+2025-07-17 17:08:51 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
+2025-07-17 17:09:04 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
+2025-07-17 17:09:06 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
+2025-07-17 17:13:33 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:14:08 - cvmaker - INFO - User action: user_login (User ID: 2) - Details: {'username': 'test'}
+2025-07-17 17:14:08 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/login', 'method': 'POST'}
+2025-07-17 17:14:10 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/auth/me', 'method': 'GET'}
+2025-07-17 17:14:12 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
+2025-07-17 17:16:45 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
+2025-07-17 17:16:49 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/activity', 'method': 'GET'}
+2025-07-17 17:16:54 - cvmaker - INFO - User action: api_request - Details: {'endpoint': '/api/v1/users/stats', 'method': 'GET'}
